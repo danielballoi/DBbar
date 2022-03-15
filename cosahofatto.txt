@@ -1,0 +1,3 @@
+TheCocktailDB = free API senza key 
+fetchare i dati nel context
+controllo dell input con USEREF
